@@ -63,8 +63,8 @@ public class CursoTest {
         Curso curso = new Curso ("Programación I");
         Estudiante estudiante1 = new Estudiante ("Camila", "Alzate Rios", "109453264", "camila@uniquindio.edu.co",
         "315635674", 18);
-        Estudiante estudiante2 = new Estudiante ("luis", "Londoño", "109453264", "luis@uniquindio.edu.co",
-        "315635674", 40);
+        Estudiante estudiante2 = new Estudiante ("Rodrigo", "Calderon", "109453264", "rodrigo@uniquindio.edu.co",
+        "3223451278", 19);
         
         curso.agregarEstudiante(estudiante1);
 
